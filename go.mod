@@ -1,3 +1,3 @@
-module go.mod
+module practice
 
 go 1.24.5
